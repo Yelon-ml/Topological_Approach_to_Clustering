@@ -10,7 +10,7 @@ In this article, I have skipped mathematical details, proofs and so on, as my go
 - 0-connectedness
 - 1-connectedness and loops in topological sense
 - 0-persistent homology, as the measure of being connected in 0-dimensional sense
-- 1-persistent homology
+- 1-persistent homology, as the measure of being connected in 1-dimensional (loop) sense
 
 Used libraries: ripser, persim, sklearn, matplotlib, numpy and random.
 
